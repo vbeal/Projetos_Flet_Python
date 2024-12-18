@@ -1,0 +1,16 @@
+# Criando diretório virtual
+python -m venv venv  
+
+# Ativano diretorio virtual
+.\venv\Scripts\Activate 
+
+# Instalando o Flet
+pip install flet
+
+# Verificando se tudo foi Instalado 
+pip list
+
+# Primeiro projeto que vamos criar é um contador
+cd projeto_contato
+flet run main.py
+
