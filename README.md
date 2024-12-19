@@ -15,3 +15,7 @@ De forma bem ilustrada o jogo monta o boneco e tudo mais.
 # Galeria de Fotos
 
 Agora nossos estudos vamos desenvolver uma galeria de fotos
+
+# Buscador de Ícones
+
+Sistema que busca ícones diretamente do banco de íncones do Flet Python
