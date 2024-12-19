@@ -8,3 +8,10 @@ Projeto simples que conta +1 ou subtrai -1 ao clicar no botão
 Testando também tamanho de janelas e outros detalhes.
 
 # Jogo da Forca
+
+Projeto de conhecido Jogo da forca feito em Flet.
+De forma bem ilustrada o jogo monta o boneco e tudo mais.
+
+# Galeria de Fotos
+
+Agora nossos estudos vamos desenvolver uma galeria de fotos
